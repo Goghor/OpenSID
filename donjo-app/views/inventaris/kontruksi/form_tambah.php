@@ -96,6 +96,7 @@
 											<select name="status_tanah" id="status_tanah" class="form-control input-sm">
 												<option value="">-- Pilih Status Tanah --</option>
 												<option value="Tanah milik Pemda">Tanah milik Pemda</option>
+												<option value="Tanah milik Desa">Tanah milik Desa</option>
 												<option value="Tanah Negara">Tanah Negara (Tanah yang dikuasai langsung oleh Negara)</option>
 												<option value="Tanah Hak Ulayat">Tanah Hak Ulayat (Tanah masyarakat Hukum Adat)</option>
 												<option value="Tanah Hak">Tanah Hak (Tanah kepunyaan perorangan atau Badan Hukum)</option>
